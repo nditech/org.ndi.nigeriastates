@@ -1,4 +1,4 @@
-Package: com.aghstrategies.moroccoprovinces
+Package: com.aghstrategies.
 Copyright (C) 2016, Andrew Hunt <andrew@aghstrategies.com>
 Licensed under the GNU Affero Public License 3.0 (below).
 
